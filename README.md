@@ -1,6 +1,7 @@
 ## Oioi! eu sou a Yasmin 
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas na UFPR.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UFPR.
+- 🌱 Estudando Next.js e Typescript.
 - 📫 Contate-me no e-mail: yasmiin.allanny@gmail.com
 - 😄 Pronomes: ela/dela
 
